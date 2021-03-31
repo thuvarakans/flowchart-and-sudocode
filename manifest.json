@@ -1,0 +1,21 @@
+{
+  "short_name": "YouTube Downloader",
+  "name": "YouTube Downloader",
+  "icons": [
+    {
+      "src": "multimedia.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "multimedia.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "lang": "en-US",
+  "start_url": "https://tamiltubedownloader.blogspot.com/",
+  "background_color": "#f2f2f2",
+  "display": "standalone",
+  "theme_color": "#dbdbdb"
+}
