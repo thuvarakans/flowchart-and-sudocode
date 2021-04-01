@@ -1,7 +1,7 @@
 var cacheName = 'hello-pwa';
 var filesToCache = [
   'index.html',
-  'mainn.js'
+  'https://github.com/thuvarakans/flowchart-and-sudocode/blob/master/mainn.js'
 ];
 
 /* Start the service worker and cache all of the app's content */
