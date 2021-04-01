@@ -3,6 +3,6 @@ window.onload = () => {
 
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker
-             .register('SW.js');
+             .register('https://github.com/thuvarakans/flowchart-and-sudocode/blob/master/SW.js');
   }
 }
